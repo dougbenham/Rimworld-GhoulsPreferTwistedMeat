@@ -1,10 +1,17 @@
 <ModMetaData>
 	<name>Ghouls Prefer Twisted Meat</name>
-	<author>doug</author>
+	<author>Doug</author>
 	<packageId>doug.ghoulsprefertwistedmeat</packageId>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
+	<modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        </li>
+	</modDependencies>
 	<description>
 		Github link is https://github.com/dougbenham/Rimworld-GhoulsPreferTwistedMeat
 		
