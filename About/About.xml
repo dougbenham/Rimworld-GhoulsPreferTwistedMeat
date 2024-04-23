@@ -1,0 +1,13 @@
+<ModMetaData>
+	<name>Ghouls Prefer Twisted Meat</name>
+	<author>doug</author>
+	<packageId>doug.ghoulsprefertwistedmeat</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>
+		Github link is https://github.com/dougbenham/Rimworld-GhoulsPreferTwistedMeat
+		
+		Ghouls prefer Twisted Meat, then Corpses, then regular meat. Distance to the food is still a factor.
+    </description>
+</ModMetaData>
