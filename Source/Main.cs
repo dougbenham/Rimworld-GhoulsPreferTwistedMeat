@@ -24,7 +24,7 @@ namespace GhoulsPreferTwistedMeat
 		    {
 			    if (foodDef == ThingDefOf.Meat_Twisted)
 				    __result += 300;
-			    else if (foodDef.IsCorpse)
+			    else if (foodDef == ThingDefOf.Meat_Human)
 				    __result += 200;
 		    }
 	    }
